@@ -4,7 +4,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-A simple calendar program written in C that allows users to view and manage their schedules.
+A simple calendar program written in C that allows users to view the calendar for a particular year, check day of a particular date and check if the year is leap year or not.
 
 ## Features
 
@@ -16,6 +16,7 @@ A simple calendar program written in C that allows users to view and manage thei
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Contributors](#contributors)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -98,6 +99,15 @@ MENU
 
 - **Exit from the program:**
   - Type  the command: `4`
+
+## Contributors
+
+- The following people have been helpful in contributing this project.
+- Thank you to the following contributors for their contributions to this project:
+- [Miss Rohini Desai 2BU20CS062](https://www.linkedin.com/in/rohini-desai-4835641b8/)
+- [Mr. Shivraj Sheelavant 2BU20CS079](https://www.linkedin.com/in/shivaraj-sheelvant-910982227/)
+- [Miss Shravani M. Sagaram 2BU20CS081](https://www.linkedin.com/in/shravani-sagaram/)
+- [Mr. Swapnadeep Kapuri 2BU20CS098](https://www.linkedin.com/in/swapnadeep-kapuri-5ab423228/)
 
 ## Contributing
 
