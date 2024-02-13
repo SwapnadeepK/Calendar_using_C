@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/All Projects CSE/2nd SEM Miniproject",
-      "program": "d:/All Projects CSE/2nd SEM Miniproject/build/Debug/outDebug",
+      "cwd": "d:/All Projects CSE/3rd SEM Miniproject",
+      "program": "d:/All Projects CSE/3rd SEM Miniproject/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
