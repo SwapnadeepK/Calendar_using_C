@@ -60,22 +60,44 @@ This repository contains a simple calendar program with the following usage inst
 
 - **Compile the program using the following command in the terminal:**
   - Use the command:
-        ```bash
 
+    ```bash
     gcc Miniproject3.c -o calendar
     ```
 
+- **Run the program in the terminal:**
+
+    ```bash
+    ./calendar
+    ```
+
+- **View this menu in the command/terminal pannel:**
+
+ ```bash
+MENU 
+
+ 1.See the calendar for a particular year
+ 2.View your day in which you were born
+ 3.To check if it is leap year or not
+ 4.Exit
+ Enter your choice:
+
+ ```
+
 - **See the calendar for a particular year:**
-  - Use the command: `./calendar view <year>`
+  - Type the command: `1`
+  - Then type the calendar for particular year you want to look: For example: `2024`
 
 - **View your day in which you were born:**
-  - Use the command: `./calendar events <day> <month> <year>`
+  - Type the command: `2`
+  - Then type the date of your birthday to look into: For example: `29/10/1998`
 
 - **To check if it is a leap year or not:**
-  - Use the command: `./calendar leapyear <year>`
+  - Type  the command: `3`
+  - Then type particular year you want to look if it is leap year or not: For example: `2024`
 
 - **Exit from the program:**
-  - Use the command: `./calendar exit`
+  - Type  the command: `4`
 
 ## Contributing
 
