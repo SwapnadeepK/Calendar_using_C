@@ -60,7 +60,6 @@ This repository contains a simple calendar program with the following usage inst
 ## Usage Instructions
 
 - **Compile the program using the following command in the terminal:**
-  - Use the command:
 
     ```bash
     gcc Miniproject3.c -o calendar
