@@ -1,6 +1,6 @@
 # Calendar_using_C
 
-# C Program
+## C Program
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
@@ -47,7 +47,7 @@ A simple calendar program written in C that allows users to view and manage thei
 
 ## Usage
 
-# Calendar Program Usage
+## Calendar Program Usage
 
 This repository contains a simple calendar program with the following usage instructions:
 
