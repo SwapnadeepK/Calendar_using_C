@@ -30,13 +30,13 @@ A simple calendar program written in C that allows users to view and manage thei
 2. Navigate to the project directory:
 
     ```bash
-    cd Calendar
+    cd Calendar_using_C
     ```
 
 3. Compile the C program:
 
     ```bash
-    gcc calendar.c -o calendar
+    gcc Miniproject3.c -o calendar
     ```
 
 4. Run the program:
@@ -47,14 +47,35 @@ A simple calendar program written in C that allows users to view and manage thei
 
 ## Usage
 
-<h1>Usage of Calendar Program:</h1>
+# Calendar Program Usage
 
-    <ol>
-        <li>See the calendar for a particular year</li>
-        <li>View your day in which you were born</li>
-        <li>To check if it is a leap year or not</li>
-        <li>Exit from the program</li>
-    </ol>
+This repository contains a simple calendar program with the following usage instructions:
+
+1. **See the calendar for a particular year**
+2. **View your day in which you were born**
+3. **To check if it is a leap year or not**
+4. **Exit from the program**
+
+## Usage Instructions
+
+- **Compile the program using the following command in the terminal:**
+  - Use the command:
+        ```bash
+
+    gcc Miniproject3.c -o calendar
+    ```
+
+- **See the calendar for a particular year:**
+  - Use the command: `./calendar view <year>`
+
+- **View your day in which you were born:**
+  - Use the command: `./calendar events <day> <month> <year>`
+
+- **To check if it is a leap year or not:**
+  - Use the command: `./calendar leapyear <year>`
+
+- **Exit from the program:**
+  - Use the command: `./calendar exit`
 
 ## Contributing
 
